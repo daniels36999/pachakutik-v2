@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/guamote-candidatura/', // Cambiar al nombre de tu repositorio de GitHub
+  base: '/pachakutik-v2/', // Cambiar al nombre de tu repositorio de GitHub
 })
